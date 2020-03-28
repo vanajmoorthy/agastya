@@ -4,6 +4,8 @@ import router from "./router";
 
 Vue.config.productionTip = false;
 
+console.log("urmomgaye");
+
 new Vue({
   router,
   render: h => h(App)

@@ -15,7 +15,7 @@ export default {
   components: {
     Contact
   },
-  name: "for",
+  name: "form",
   components: {
     Form
   }
